@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "tanqu-wx/pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#333333",
+    "navigationBarTitleText": "探趣",
+    "navigationBarTextStyle":"light"
+  }
+}
